@@ -1,6 +1,4 @@
-
-
-# 🧪 Active Directory Home Lab
+https://github.com/Sheynm1/Active-Directory-Home-Lab/blob/a7f072c8b19f605b54c164136ba09131f2eb9a63/Active_Directory_Practice_Home_Lab.png
 
 This repository guides you through setting up a basic **Active Directory (AD)** home lab using either Oracle VirtualBox or VMware. This was done for practice and preperation for COMPTIA and Future certifications.
 
