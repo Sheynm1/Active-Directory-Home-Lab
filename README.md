@@ -15,7 +15,7 @@ This repository guides you through setting up a basic **Active Directory (AD)** 
 
 ## 🖼️ Lab Diagram
 
-![Lab Network Diagram](Desktop/Networkdiagram.png)
+[![Lab Network Diagram](Desktop/Networkdiagram.png)](https://github.com/Sheynm1/Active-Directory-Home-Lab/blob/2f3befd4541eef1b13a0b34bce11f2668c87d272/Network%20diagram.png)
 
 ---
 
