@@ -97,7 +97,11 @@ This repository guides you through setting up a basic **Active Directory (AD)** 
 - Join the domain (`mydomain.com`).
 - Log in with a domain account to **verify domain connectivity**.
 
+![](https://github.com/Sheynm1/Active-Directory-Home-Lab/blob/42580208997ee6c836edb8a5899e459427927c98/client-user%20is%20connected%20to%20the%20network.png)
+
 ## Final Verification
 
 - Open **Active Directory Users & Computers** and verify that all user accounts were created.
 - Check the **DHCP lease assignments** to confirm client connectivity.
+
+![](https://github.com/Sheynm1/Active-Directory-Home-Lab/blob/42580208997ee6c836edb8a5899e459427927c98/ping%20works.png)
