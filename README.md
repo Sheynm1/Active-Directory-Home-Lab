@@ -82,10 +82,13 @@ This repository guides you through setting up a basic **Active Directory (AD)** 
  
  ![DHCP Scope 1](https://github.com/Sheynm1/Active-Directory-Home-Lab/blob/f5dfb701b3cfa62dd4bf39f0cd64942a64c32246/dhcp%20config%20and%20scope.png)
 
-## Bulk User Creation
+## User Creation
 
 - Use a **PowerShell script** and a `.txt` file with names to create **1,000 users**.
 - Users are added to specific OUs.
+
+![](https://github.com/Sheynm1/Active-Directory-Home-Lab/blob/e926b6f43aee2b942f4d25f2d207fa1a3e3ffb07/powershell%20script.png)
+![](https://github.com/Sheynm1/Active-Directory-Home-Lab/blob/e926b6f43aee2b942f4d25f2d207fa1a3e3ffb07/all%20created%20users.png)
 
 ## Client Machine Setup
 
