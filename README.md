@@ -39,6 +39,8 @@ This repository guides you through setting up a basic **Active Directory (AD)** 
   - **NAT** for internet access
   - **Internal Network** for lab communication
 
+ ![Domain Controller Setup]([Desktop/Networkdiagram.png](https://github.com/Sheynm1/Active-Directory-Home-Lab/blob/3097ab9458fca31f0d6ce0a06586f35a239a8814/internet%20and%20internal.png))
+
 ## Windows Server Configuration
 
 - Install Windows Server OS on the VM.
@@ -62,6 +64,8 @@ This repository guides you through setting up a basic **Active Directory (AD)** 
 - Create an **admin user** inside the OU(`This can be yourself!`).
 - Add the admin user to the **Domain Admins** group.
 
+ ![Creating Admin User and Group]([[Desktop/Networkdiagram.png](https://github.com/Sheynm1/Active-Directory-Home-Lab/blob/3097ab9458fca31f0d6ce0a06586f35a239a8814/internet%20and%20internal.png](https://github.com/Sheynm1/Active-Directory-Home-Lab/blob/129d30f7d334b45995e0acb4d9927e0974fd5831/create%20us%20as%20a%20admin.png)))
+
 ## Network Routing (Optional)
 
 - Install and configure **Routing and Remote Access** to provide NAT.
@@ -75,6 +79,8 @@ This repository guides you through setting up a basic **Active Directory (AD)** 
   - Gateway - `172.16.0.1`
   - DNS - `172.16.0.1`
   - Lease duration - `8 days`
+ 
+ ![DHCP Scope 1]([[[Desktop/Networkdiagram.png](https://github.com/Sheynm1/Active-Directory-Home-Lab/blob/3097ab9458fca31f0d6ce0a06586f35a239a8814/internet%20and%20internal.png](https://github.com/Sheynm1/Active-Directory-Home-Lab/blob/129d30f7d334b45995e0acb4d9927e0974fd5831/create%20us%20as%20a%20admin.png](https://github.com/Sheynm1/Active-Directory-Home-Lab/blob/f5dfb701b3cfa62dd4bf39f0cd64942a64c32246/dhcp%20config%20and%20scope.png))))
 
 ## Bulk User Creation
 
